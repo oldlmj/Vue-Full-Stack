@@ -1,0 +1,33 @@
+$black: #17181c;
+$white: #fff;
+$color-1: #e2f1f5;
+$ivory: #fffff0;
+$cornsilk: #fff8dc;
+$beige: #f5f5dc;
+//wheat
+$lightblue1: #a9cce3;
+$lightblue2: #5d6d7e;
+$lemonchiffon: #fffacd;
+$darkgoldenrod: #b8860b;
+$darkorange: #ff8c00;
+$lightgray: #2c2e36;
+$gray: gray;
+$gainsboro: #dcdcdc;
+$blue: #167bff;
+$darkblue: #005bd3;
+$benzoblue: #7eb8e8;
+$lightblue: rgb(0, 134, 196);
+$indigo: #00416a;
+$paleblue: #79c5cf;
+$red: red;
+$darkred: rgb(173, 0, 0);
+$green: rgb(0, 216, 18);
+$darkgreen: rgb(64, 142, 33);
+$lightgreen: rgb(0, 255, 128);
+
+$phone-media: 500px;
+@mixin phone-width() {
+  @media all and (max-width: $phone-media) {
+    @content;
+  }
+}

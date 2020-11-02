@@ -1,0 +1,30 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "\/droplet-3x.png",
+   "sizes": "24x24",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\/droplet-4x.png",
+   "sizes": "32x32",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "\/droplet-6x.png",
+   "sizes": "48x48",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "\/droplet-8x.png",
+   "sizes": "64x64",
+   "type": "image\/png",
+   "density": "2.0"
+  }
+
+ ]
+}
