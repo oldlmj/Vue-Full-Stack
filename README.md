@@ -19,4 +19,4 @@ Vue、Express、VScode
 * 使用連接池進入資料庫
 * 先寫好SQL語句，以供叫喚
 
-[展示影片](https://youtu.be/Kk1d33tZyjc)
+[![](http://img.youtube.com/vi/Kk1d33tZyjc/0.jpg)](http://www.youtube.com/watch?v=Kk1d33tZyjc "Vue-Full-Stack")
